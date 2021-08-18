@@ -1,0 +1,67 @@
+body{
+  display: inline;
+  color:white;
+}
+
+
+body{
+  position:relative;
+  left:20px;
+  font-family: 'Roboto', sans-serif;
+}
+.header{
+  display:inline;
+  
+}
+nav>p{
+  position:relative;
+  right:0px;
+}
+.home{
+  display: inline;
+  position:relative;
+
+}
+  h3,h4{
+    text-decoration:underline;
+  }
+  .header>p{
+    display: inline;
+    background:lightsalmon;
+    width: 100px;
+    left: 20cm;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  
+    }
+    
+  .header>p :hover{
+    color: crimson;
+  }
+body h2{
+  color:mediumblue;
+  font-family:'Times New Roman', Times, serif;
+  width: 20%;
+  position:relative;
+  left:50px;
+}
+.info>a:hover{
+  color:crimson;
+
+}
+
+
+    div > p {
+        height: 5cm;
+        width: 5cm;
+        background: red;
+        color: white;
+      }
+      .test {
+        width: 50px;
+        height: 50px;
+        border: 3px solid red;
+        display: inline-block;
+      }
